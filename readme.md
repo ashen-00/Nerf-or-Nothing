@@ -27,3 +27,4 @@ Hardware:
 * A 9-volt battery powers the MCU through a switching regulator to convert the ~9v from the battery to a steady 3.3v.
 
 Project log is hosted at [Hackaday.io](https://hackaday.io/project/170654-nerfornothing).
+Made with Timothy Kanarsky for Physics 4AL
